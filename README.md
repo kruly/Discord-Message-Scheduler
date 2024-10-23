@@ -32,8 +32,7 @@ npm (Node Package Manager)
 
 🚀 1. Clone the Repository
 
-git clone https://github.com/yourusername/multi-token-discord-scheduler.git
-cd multi-token-discord-scheduler
+git clone https://github.com/kruly/Discord-Message-Scheduler
 
 📦 2. Install Dependencies
 
@@ -100,14 +99,15 @@ Here’s an example of how the system works:
 
 After starting, messages will be sent to each channel every 60 seconds, and the logs will update accordingly.
 
-# 🛠️ Bug's to be fixed
+## 🛠️ Bug's to be fixed
 
 • Stop/Restart button not working
 
-# 🛠️ Features to be worked on
+## 🛠️ Features to be worked on
 
 • Ability to send different messages to different channel id's
-•Nickname's for each channel id
+
+• Nickname's for each channel id
 
 ## DM mattmatt10. if you found a Bug!!! 🐛 
 
