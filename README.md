@@ -2,11 +2,11 @@
 A Discord Message Scheduler/Automatic posting of messages
 
 
-🛠 # Multi-Token Discord Scheduler
+# 🛠 Multi-Token Discord Scheduler
 
 Multi-Token Discord Scheduler is a web-based tool that allows users to schedule messages to multiple Discord channels at specified intervals using different Discord tokens. The tool supports managing multiple tokens, scheduling messages for different channels with unique messages, and provides real-time status updates for each scheduled message.
 
-✨ ## Features
+## ✨ Features
 
 🗝️ Multi-Token Support: Add and manage multiple Discord tokens (bots or user accounts).
 
@@ -21,7 +21,7 @@ Multi-Token Discord Scheduler is a web-based tool that allows users to schedule 
 ❌ Error Tracking: Real-time status updates for each scheduled message, showing success or failure.
 
 
-⚙️ ## Setup and Installation
+## ⚙️ Setup and Installation
 
 Prerequisites
 
@@ -81,7 +81,7 @@ You can click the "Stop" button to stop scheduling messages to a specific channe
 You can restart the stopped messages by clicking "Restart."
 
 
-🛠 ### Example
+## 🛠 Example
 
 Here’s an example of how the system works:
 
@@ -100,6 +100,17 @@ Here’s an example of how the system works:
 
 After starting, messages will be sent to each channel every 60 seconds, and the logs will update accordingly.
 
-📜 ### License
+# 🛠️ Bug's to be fixed
+
+• Stop/Restart button not working
+
+# 🛠️ Features to be worked on
+
+• Ability to send different messages to different channel id's
+•Nickname's for each channel id
+
+## DM mattmatt10. if you found a Bug!!! 🐛 
+
+## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
